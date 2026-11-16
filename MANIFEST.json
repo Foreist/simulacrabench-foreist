@@ -1,0 +1,163 @@
+{
+  "archive": {
+    "name": "rc6-profile.zip",
+    "size": 657391852,
+    "sha256": "2c6ea85fa4960e171116989115a67202e0cdc15fa7733969e3ad7d0640f30def",
+    "codabench_test_submission": 1054916
+  },
+  "members": [
+    {
+      "name": "main.py",
+      "size": 61919,
+      "sha256": "9eb86ae493d139b74e30a0548dde7f48d6b7de8138d4235eca9d36d0d32460b7",
+      "date_time": [
+        2026,
+        11,
+        11,
+        20,
+        4,
+        16
+      ],
+      "compress_type": 8,
+      "external_attr": 2176057344,
+      "create_system": 3,
+      "public_in_repo": true
+    },
+    {
+      "name": "tabpfn-v3.5-fast-20260909.safetensors",
+      "size": 334181708,
+      "sha256": "14e0b81285bca7a6d1ef121169f27f651f76dff49cad6c0b8779d5c836018550",
+      "date_time": [
+        2026,
+        11,
+        10,
+        17,
+        45,
+        42
+      ],
+      "compress_type": 0,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": false
+    },
+    {
+      "name": "tabicl-classifier-v2-20260212.ckpt",
+      "size": 110368038,
+      "sha256": "bdc7dbd5e4ff21f8f0456fcf90c6b7cdf72dbea960f2d05b19bec19f9b3d4ed0",
+      "date_time": [
+        2026,
+        11,
+        10,
+        17,
+        6,
+        20
+      ],
+      "compress_type": 0,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": false
+    },
+    {
+      "name": "tabpfn-v3-classifier-v3_default.ckpt",
+      "size": 212804803,
+      "sha256": "d0d865d54dfbc524f5703104be90620182dca7e5fb2c16de72e9959ea18f3988",
+      "date_time": [
+        2026,
+        11,
+        9,
+        16,
+        33,
+        16
+      ],
+      "compress_type": 0,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": false
+    },
+    {
+      "name": "LICENSE.tabpfn-3.5",
+      "size": 16905,
+      "sha256": "9570fdd687bb76ed45499412ad57d6ba949848e6d731f1242572bb57f2f73ae1",
+      "date_time": [
+        2026,
+        11,
+        10,
+        17,
+        45,
+        8
+      ],
+      "compress_type": 8,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": true
+    },
+    {
+      "name": "LICENSE.tabpfn-3",
+      "size": 16794,
+      "sha256": "dca491280b68f471312a15d54add7b8e724adf19fb0e113544b1ef91e060f5d5",
+      "date_time": [
+        2026,
+        11,
+        9,
+        16,
+        32,
+        52
+      ],
+      "compress_type": 8,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": true
+    },
+    {
+      "name": "LICENSE.tabicl",
+      "size": 12996,
+      "sha256": "c959a1db8bc4b2f41c315a9b077c822372a4a84e1a83636bdb962715aaae6874",
+      "date_time": [
+        2026,
+        11,
+        10,
+        17,
+        5,
+        14
+      ],
+      "compress_type": 8,
+      "external_attr": 2180972544,
+      "create_system": 3,
+      "public_in_repo": true
+    },
+    {
+      "name": "requirements.txt",
+      "size": 28,
+      "sha256": "a2ce26b0e372638bd54aee14747ec35db9517071bb15ff05270515d39359e937",
+      "date_time": [
+        2026,
+        11,
+        10,
+        19,
+        59,
+        24
+      ],
+      "compress_type": 0,
+      "external_attr": 25165824,
+      "create_system": 3,
+      "public_in_repo": true
+    },
+    {
+      "name": "NOTICE",
+      "size": 825,
+      "sha256": "e16a3fcae297a344b7f381c2b44b980e05ab926c3c1e7193a5fab868eb94d7e8",
+      "date_time": [
+        2026,
+        11,
+        10,
+        19,
+        59,
+        24
+      ],
+      "compress_type": 0,
+      "external_attr": 25165824,
+      "create_system": 3,
+      "public_in_repo": true
+    }
+  ]
+}

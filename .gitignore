@@ -1,0 +1,4 @@
+*.safetensors
+*.ckpt
+*.zip
+__pycache__/
